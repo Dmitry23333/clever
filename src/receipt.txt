@@ -1,0 +1,243 @@
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         32.88
+Discount card: id 1234;discount 25.0%
+discount 10.96
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         32.88
+Discount card: id 1234;discount 25.0%
+discount 10.96
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         32.88
+Discount card: id 1234;discount 25.0%
+discount 10.96
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         32.88
+Discount card: id 1234;discount 25.0%
+discount 10.96
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         32.88
+Discount card: id 1234;discount 25.0%
+discount 10.96
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         32.88
+Discount card: id 1234;discount 25.0%
+discount 10.96
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         43.84
+
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         32.88
+Discount card: id 1234;discount 25.0%
+discount 10.96
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33           2.10        7       14.70
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Potato          1.23           1.11        6        6.66
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         37.87
+Discount card: id 1234;discount 25.0%
+discount 12.63
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33              -        5       11.65
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Potato          1.23           1.11        6        6.66
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         35.58
+Discount card: id 1234;discount 25.0%
+discount 11.87
+name           price    promo price   number        cost
+--------------------------------------------------------
+Milk            2.33              -        5       11.65
+Bread           1.44              -        6        8.64
+IceCream        1.90              -        2        3.80
+Chocolate       2.34              -        5       11.70
+Potato          1.23           1.11        6        6.66
+Cofee           5.00              -        1        5.00
+--------------------------------------------------------
+Total cost                                         35.58
+Discount card: id 1234;discount 25.0%
+discount 11.87
